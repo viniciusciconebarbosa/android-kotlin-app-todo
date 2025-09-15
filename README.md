@@ -4,15 +4,15 @@ Um aplicativo Android simples e elegante para gerenciar tarefas diárias, desenv
 
 ## Funcionalidades
 
-- ✅ Adicionar novas tarefas com título, descrição e prioridade
-- ✅ Marcar tarefas como concluídas/pendentes
-- ✅ Editar tarefas existentes
-- ✅ Excluir tarefas individuais
-- ✅ Limpar todas as tarefas concluídas
-- ✅ Sistema de prioridades (Alta, Média, Baixa) com cores
-- ✅ Persistência de dados com Room Database
-- ✅ Interface moderna com Material Design
-- ✅ Ordenação inteligente (pendentes primeiro, por prioridade e data)
+-  Adicionar novas tarefas com título, descrição e prioridade
+-  Marcar tarefas como concluídas/pendentes
+-  Editar tarefas existentes
+-  Excluir tarefas individuais
+-  Limpar todas as tarefas concluídas
+-  Sistema de prioridades (Alta, Média, Baixa) com cores
+-  Persistência de dados com Room Database
+-  Interface moderna com Material Design
+-  Ordenação inteligente (pendentes primeiro, por prioridade e data)
 
 ## Tecnologias Utilizadas
 
