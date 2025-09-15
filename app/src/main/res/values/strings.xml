@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarefas Diárias</string>
+    <string name="action_delete_completed">Limpar concluídas</string>
+    
+    <string-array name="prioridades">
+        <item>Baixa</item>
+        <item>Média</item>
+        <item>Alta</item>
+    </string-array>
+</resources>

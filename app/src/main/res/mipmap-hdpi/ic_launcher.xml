@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Fundo circular laranja -->
+    <path
+        android:fillColor="#FFFF9800"
+        android:pathData="M24,24m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0" />
+    
+    <!-- Ícone de lista de tarefas branco -->
+    <group android:scaleX="0.6" android:scaleY="0.6" android:translateX="9.6" android:translateY="9.6">
+        <!-- Linha 1 -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M8,8 L32,8 L32,12 L8,12 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M6,10m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+        
+        <!-- Linha 2 -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M8,16 L32,16 L32,20 L8,20 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M6,18m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+        
+        <!-- Linha 3 -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M8,24 L32,24 L32,28 L8,28 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M6,26m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+        
+        <!-- Linha 4 -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M8,32 L24,32 L24,36 L8,36 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M6,34m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    </group>
+</vector>
