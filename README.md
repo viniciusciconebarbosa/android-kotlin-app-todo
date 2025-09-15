@@ -1,6 +1,6 @@
 # App de Tarefas Diárias - Android Kotlin
 
-Um aplicativo Android simples e elegante para gerenciar tarefas diárias, desenvolvido em Kotlin nativo.
+Um aplicativo Android simples para gerenciar tarefas diárias, desenvolvido em Kotlin nativo.
 
 ## Funcionalidades
 
@@ -49,6 +49,9 @@ app/
 2. Sincronize as dependências
 3. Execute no dispositivo/emulador
 
+![WhatsApp Image 2025-09-15 at 14 59 23](https://github.com/user-attachments/assets/a3485da8-0707-4ecb-80a2-b55632cdf5f0)
+
+
 ## Requisitos
 
 - Android Studio Arctic Fox+
@@ -56,4 +59,4 @@ app/
 
 ---
 
-Desenvolvido com ❤️ em Kotlin
+Desenvolvido em Kotlin
