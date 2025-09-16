@@ -50,7 +50,7 @@ app/
 
 1. Abra no Android Studio
 2. Sincronize as dependências
-3. Execute no dispositivo/emulador
+3. Execute no dispositivo, seu celular ou emulador
 
 ![WhatsApp Image 2025-09-15 at 14 59 23](https://github.com/user-attachments/assets/a3485da8-0707-4ecb-80a2-b55632cdf5f0)
 
