@@ -62,4 +62,4 @@ app/
 
 ---
 
-Desenvolvido em Kotlin
+Desenvolvido ❤️ em Kotlin
