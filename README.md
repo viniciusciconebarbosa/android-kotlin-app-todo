@@ -1,11 +1,11 @@
-# App de Tarefas Diárias - Android Kotlin
+## :iphone: App de Tarefas Diárias - Android Kotlin
 
 Um aplicativo Android simples para gerenciar tarefas diárias, desenvolvido em Kotlin nativo.
 
 
 [Download APK](https://github.com/viniciusciconebarbosa/android-kotlin-app-todo/releases/tag/Android)
 
-## Funcionalidades
+## :pushpin: Funcionalidades
 
 -  Adicionar, editar e excluir tarefas
 -  Sistema de prioridades com cores (Alta/Média/Baixa)
@@ -14,7 +14,7 @@ Um aplicativo Android simples para gerenciar tarefas diárias, desenvolvido em K
 -  Persistência local com Room Database
 -  Interface Material Design
 
-## Tecnologias
+## :package: Tecnologias
 
 - **Kotlin** - Linguagem principal
 - **Room Database** - Persistência local
@@ -23,7 +23,7 @@ Um aplicativo Android simples para gerenciar tarefas diárias, desenvolvido em K
 - **RecyclerView** - Lista de tarefas
 - **ViewBinding** - Binding de views
 
-## Estrutura do Projeto
+## :moyai: Estrutura do Projeto
 
 ```
 app/
