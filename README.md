@@ -2,6 +2,9 @@
 
 Um aplicativo Android simples para gerenciar tarefas diárias, desenvolvido em Kotlin nativo.
 
+
+[Download APK](https://github.com/viniciusciconebarbosa/android-kotlin-app-todo/releases/tag/Android)
+
 ## Funcionalidades
 
 -  Adicionar, editar e excluir tarefas
