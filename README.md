@@ -3,7 +3,7 @@
 Um aplicativo Android simples para gerenciar tarefas diárias, desenvolvido em Kotlin nativo.
 
 
-[Download APK](https://github.com/viniciusciconebarbosa/android-kotlin-app-todo/releases/tag/Android)
+ :white_check_mark: [Download APK](https://github.com/viniciusciconebarbosa/android-kotlin-app-todo/releases/tag/Android)
 
 ## :pushpin: Funcionalidades
 
